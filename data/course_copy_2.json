@@ -1,0 +1,30 @@
+[
+  {
+    "id": 7,
+    "title": "Admission Prep'22 course",
+    "des": "ঘরে বসে বিশ্ববিদ্যালয়ের A ইউনিটের ভর্তি পরীক্ষার প্রস্তুতির জন্য একটি পূর্ণাঙ্গ কোর্স।",
+    "price": "৳১৫০০/=",
+    "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661684129%2Fqear57i8usbsmwrizgg6.png&w=640&q=75"
+  },
+  {
+    "id": 8,
+    "title": "SSC'24 Academic Course Science",
+    "des": " SSC সায়েন্সের সকল কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+    "price": "৳১৫০০/=",
+    "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661584612%2Fdanh1qo5bm1bnc4zklyl.png&w=640&q=75"
+  },
+  {
+    "id": 9,
+    "title": "SSC'24 Academic Course Common",
+    "des": " SSC কমন বিষয়গুলোর কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+    "price": "৳১১২০/=",
+    "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661661959%2Fv9vlxqm9y7untshbqzgf.png&w=640&q=75"
+  },
+  {
+    "id": 95,
+    "title": "SSC'24 Academic Course Common",
+    "des": " SSC কমন বিষয়গুলোর কনসেপ্ট শেখা ও প্রবলেম সলভের জন্য ১২ মাসের ইন্টারেকটিভ লাইভ ক্লাস কোর্স।",
+    "price": "৳১১২০/=",
+    "imgUrl": "https://shikho.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fcross-border-education-technologies-pte-ltd%2Fimage%2Fupload%2Fv1661661959%2Fv9vlxqm9y7untshbqzgf.png&w=640&q=75"
+  }
+]
